@@ -14,9 +14,7 @@ This org is about:
 
 | Repository | Description | Tutorial |
 |----------|-------------|----------|
-| [repo-name](https://github.com/Corg-Labs/repo-name) | Short one-line description of what this project does | ✅ / ❌ |
-| [example-lib](https://github.com/Corg-Labs/example-lib) | Minimal C library for ___ | ✅ |
-| [example-tool](https://github.com/Corg-Labs/example-tool) | CLI tool written in pure C | ❌ |
+| [image-viewer](https://github.com/Corg-Labs/image-viewer) | Image Viewer In C(SDL2) | ✅ |
 
 > **Tutorial** indicates whether the repository includes a walkthrough, blog, or Video resources.
 
