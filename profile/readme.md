@@ -15,6 +15,7 @@ This org is about:
 | Repository | Description | Tutorial |
 |----------|-------------|----------|
 | [image-viewer](https://github.com/Corg-Labs/image-viewer) | Image Viewer In C(SDL2) | ✅ |
+| [file-compressor](https://github.com/Corg-Labs/file-compressor) | File Compressor Decompressor (Raylib) | ✅ |
 
 > **Tutorial** indicates whether the repository includes a walkthrough, blog, or Video resources.
 
@@ -40,6 +41,3 @@ This org is about:
 ##  Why C?
 
 Because understanding computers starts here.
-
-
-
