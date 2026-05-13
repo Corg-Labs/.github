@@ -16,6 +16,8 @@ This org is about:
 |----------|-------------|----------|
 | [image-viewer](https://github.com/Corg-Labs/image-viewer) | Image Viewer In C(SDL2) | ✅ |
 | [file-compressor](https://github.com/Corg-Labs/file-compressor) | File Compressor Decompressor (Raylib) | ✅ |
+| [file-splitter](https://github.com/Corg-Labs/file-splitter) | A minimal command-line file splitter written in C | ✅ |
+
 
 > **Tutorial** indicates whether the repository includes a walkthrough, blog, or Video resources.
 
