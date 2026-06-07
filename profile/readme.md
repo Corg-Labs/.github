@@ -21,6 +21,10 @@ This org is about:
 | 5 | [lorenz](https://github.com/Corg-Labs/lorenz) | Terminal-based 3D ASCII rendering of the Lorenz attractor | ✅ |
 | 6 | [knot](https://github.com/Corg-Labs/knot) | Terminal-based 3D ASCII torus-knot animation in C | ✅ |
 | 7 | [ember](https://github.com/Corg-Labs/ember) | Terminal-based recreation of the PSX DOOM fire effect in C | ✅ |
+| 8 | [tracer](https://github.com/Corg-Labs/tracer) | A simple real-time 2D ray tracer written entirely in C. | ✅ |
+| 9 | [life](https://github.com/Corg-Labs/life) | Conway's Game of Life in C. | ✅ |
+
+
 
 > **Tutorial** — ✅ indicates a video walkthrough is available. Other repos link back to the org.
 
