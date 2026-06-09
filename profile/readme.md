@@ -23,6 +23,13 @@ This org is about:
 | 7 | [ember](https://github.com/Corg-Labs/ember) | Terminal-based recreation of the PSX DOOM fire effect in C | ✅ |
 | 8 | [tracer](https://github.com/Corg-Labs/tracer) | A simple real-time 2D ray tracer written entirely in C. | ✅ |
 | 9 | [life](https://github.com/Corg-Labs/life) | Conway's Game of Life in C. | ✅ |
+| 10 | [horizon](https://github.com/Corg-Labs/horizon) | Schwarzschild Black Hole in C. | ✅ |
+| 11 | [mandel](https://github.com/Corg-Labs/mandel) | Mandelbrot infinite-zoom animation. | ✅ |
+| 12 | [bars](https://github.com/Corg-Labs/bars) | Sorting Algorithm Visualizer in C. | ✅ |
+| 13 | [binTree](https://github.com/Corg-Labs/binTree) | Binary Search Tree Visualiser in C. | ✅ |
+
+
+
 
 
 
