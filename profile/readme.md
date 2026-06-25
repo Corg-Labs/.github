@@ -44,6 +44,23 @@ This org is about:
 | 28 | [ripple](https://github.com/Corg-Labs/ripple) | Water-ripple height-field simulation in the terminal, in C. | ✅ |
 | 29 | [boids](https://github.com/Corg-Labs/boids) | Boids flocking simulation in the terminal, in C. | ✅ |
 | 30 | [ant](https://github.com/Corg-Labs/ant) | Langton's ant cellular automaton in the terminal, in C. | ✅ |
+| 31 | [llv](https://github.com/Corg-Labs/llv) | An interactive doubly-linked list visualiser with full operation support, in C. | ✅ |
+| 32 | [md2html](https://github.com/Corg-Labs/md2html) | A single-pass Markdown to HTML5 converter in C. | ✅ |
+| 33 | [chess](https://github.com/Corg-Labs/chess) | A fully legal terminal chess engine in C. | ✅ |
+| 34 | [cmusic](https://github.com/Corg-Labs/cmusic) | A real-time ASCII music spectrum analyser that reads raw PCM audio from stdin, in C. | ✅ |
+| 35 | [braindead](https://github.com/Corg-Labs/braindead) | Brainfuck interpreter with a live tape view, in C. | ✅ |
+| 36 | [snake](https://github.com/Corg-Labs/snake) | Classic Snake game in the terminal, in C. | ✅ |
+| 37 | [tac](https://github.com/Corg-Labs/tac) | Unbeatable Tic-Tac-Toe with a minimax AI, in C. | ✅ |
+| 38 | [pong](https://github.com/Corg-Labs/pong) | Pong with a simple AI opponent in the terminal, in C. | ✅ |
+| 39 | [jsontree](https://github.com/Corg-Labs/jsontree) | JSON parser that prints the parse tree, in C. | ✅ |
+| 40 | [blocks](https://github.com/Corg-Labs/blocks) | Tetris in the terminal, written in C. | ✅ |
+| 41 | [relay](https://github.com/Corg-Labs/relay) | TCP relay / echo server in C. | ✅ |
+| 42 | [cshell](https://github.com/Corg-Labs/cshell) | Minimal Unix shell with pipes and redirection, in C. | ✅ |
+| 43 | [hexview](https://github.com/Corg-Labs/hexview) | Hexdump clone: hex + ASCII view of any file, in C. | ✅ |
+| 44 | [tiles](https://github.com/Corg-Labs/tiles) | 2048 sliding-tile game in the terminal, in C. | ✅ |
+| 45 | [trex](https://github.com/Corg-Labs/trex) | A kilo-style terminal text editor implemented in a single C file. | ✅ |
+| 46 | [sand](https://github.com/Corg-Labs/sand) | Falling-sand cellular simulation in the terminal, in C. | ✅ |
+| 47 | [rain](https://github.com/Corg-Labs/rain) | Matrix-style digital rain in the terminal, written in C. | ✅ |
 
 
 
